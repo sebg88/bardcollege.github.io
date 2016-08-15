@@ -37,7 +37,7 @@ var rules = {
     "I am no machine",
     
     ],
-  "~*x can you hook me up ~*y": [
+  "~*x hook ~*y": [
     "Whuchu lookin for homie?",
     
   ],
